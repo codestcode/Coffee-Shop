@@ -1,4 +1,4 @@
-# ☕ BrewCraft Coffee – E-commarce Coffee Website
+# ☕ BrewCraft Coffee – E-commerce Coffee Website
 
 A modern, premium coffee shop frontend built to deliver a smooth, immersive, and visually engaging user experience.
 
