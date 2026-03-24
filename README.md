@@ -1,6 +1,6 @@
 # ☕ BrewCraft Coffee – E-commerce Coffee Website
 
-A modern, premium coffee shop frontend built to deliver a smooth, immersive, and visually engaging user experience.
+A modern, premium coffee shop built to deliver a smooth, immersive, and visually engaging user experience.
 
 This project focuses on transforming a coffee brand into a polished digital storefront , combining elegant UI, smooth animations, and interactive elements like 3D rendering.
 
@@ -8,7 +8,7 @@ This project focuses on transforming a coffee brand into a polished digital stor
 
 ## => Overview
 
-BrewCraft is a frontend coffee shop template designed to simulate a real e-commerce experience while remaining flexible and client-ready.
+BrewCraft is a coffee shop template designed to simulate a real e-commerce experience while remaining flexible and client-ready.
 
 It can be easily customized for different brands and business needs, making it suitable for real-world client projects.
 
